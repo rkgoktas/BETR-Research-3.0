@@ -1,6 +1,6 @@
 ## Welcome to BETR-Research 3.0 website!
 
-You can download the documentation in pdf format from [here] (/BETR-Research-3.0.pdf).
+You can download the documentation in pdf format from [here] (/Documentation_BETR-Research-3.0.pdf).
 
 You can use the [editor on GitHub](https://github.com/rkgoktas/BETR-Research-3.0/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
