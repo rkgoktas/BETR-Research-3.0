@@ -4,7 +4,7 @@ keywords: BETR multi-media modeling
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: BETR-Research is a framework to create spatially resolved multi-media fate and transport models for chemical contaminants.
+summary: BETR-Research is a framework to create spatially resolved multi-media fate and transport models for chemical contaminants. This site is intended for distributing the source-code and documentation for BETR-Research version 3.0.
 ---
 
 ## Build the Theme
